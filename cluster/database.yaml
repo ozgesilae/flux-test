@@ -6,7 +6,7 @@ metadata:
 spec:
   interval: 10m0s
   retryInterval: 30s
-  timeout: 25m0s
+  timeout: 30m0s
   sourceRef:
     kind: GitRepository
     name: flux-system
